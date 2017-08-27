@@ -27,5 +27,5 @@ function preserveDecimal(n) {
   parseFloat('2.222')
 }
 function makeInt(a) {
-  return parseInt('sldkjflksjf', 10)
+  return parseInt('a', 10)
 }
