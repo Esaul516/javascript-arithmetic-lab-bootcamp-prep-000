@@ -34,6 +34,5 @@ function preserveDecimal(a) {
 }
 
 function preserveDecimal(a) {
-  a += 1.222
   return parseFloat(a, 10)
 }
