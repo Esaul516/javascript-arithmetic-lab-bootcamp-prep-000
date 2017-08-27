@@ -30,8 +30,10 @@ function makeInt(a) {
   return parseInt(a, 10)
 }
 function preserveDecimal(a) {
+  a += 2.222
   return parseFloat(2.222, 10)
 }
+
 function preserveDecimal(a) {
   return parseFloat('sldkjflksjf', 10)
 }
