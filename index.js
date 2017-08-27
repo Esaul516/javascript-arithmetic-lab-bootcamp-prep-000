@@ -21,17 +21,8 @@ function dec(a) {
 function makeInt(a) {
   return parseInt('a', 10)
 }
-function makeInt(n) {
-  return parseInt('sldkjflksjf', 10)
-}
-
-
-
 
 
 function preserveDecimal(n) {
   parseFloat('2.222')
-}
-function preserveDecimal() {
-  parseFloat('sldkjflksjf')
 }
