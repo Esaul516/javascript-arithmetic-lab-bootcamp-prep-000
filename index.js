@@ -37,4 +37,3 @@ function preserveDecimal(a) {
   a += 2.222
   return parseFloat(a, 10)
 }
-
